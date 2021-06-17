@@ -1,0 +1,26 @@
+    body {
+        background-color: rgb(247, 167, 76);
+        font-size: medium, arial;
+    }
+
+     .texto{
+        position: absolute;
+        margin-top: -30px; 
+        width: auto;
+        height: 200px;
+        top: 0;
+        left:0;
+     }
+    .formato{
+        position: relative;
+        text-align: center;
+    }
+    footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+     }
+    .imagem{
+    width: 1600px;
+    height: 949px;
+    }

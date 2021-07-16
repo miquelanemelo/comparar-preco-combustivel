@@ -1,26 +1,28 @@
     body {
-        background-color: rgb(247, 167, 76);
-        font-size: medium, arial;
-    }
-
+       /* background-color: rgba(209, 61, 61, 0.781);*/
+        font-style: normal,;
+        }
+    
      .texto{
-        position: absolute;
-        margin-top: -30px; 
-        width: auto;
-        height: 200px;
-        top: 0;
-        left:0;
-     }
-    .formato{
-        position: relative;
+        font-family: Arial, Helvetica, sans-serif;
+        position:absolute;
+        color:black;
         text-align: center;
-    }
-    footer{
+        top: 50px;
+        width: 1400px;
+        line-height: 30px;
+        height: 50px;
+     }
+     #imagem{
+        width: auto;
+        height: auto;   
+        }
+    .footer{
+    position:relative;
+    bottom:0;
+    width:100%;
     color: black;
     text-align: center;
     font-style: italic;
      }
-    .imagem{
-    width: 1600px;
-    height: 949px;
-    }
+    
